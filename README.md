@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
- 🤙 Opa, suave? então, me chamo Fabricio e estou cursando ADS mas quero seguir a área de <strong>Mobile Developer</strong>.<br>
+  🤙 Opa, suave? então, me chamo Fabricio e sou <strong>Mobile Developer</strong>, atualmente estou cursando ADS, aqui no meu GIT irei deixar alguns projetos que eu faço para melhorar minhas habilidades 👨‍💻<br>
 </p>
 
 <p align="left">
