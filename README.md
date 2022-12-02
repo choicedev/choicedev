@@ -6,10 +6,9 @@
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/fabriciozamora/"/>
   </a>
   
-
 ## <p align="left"> 
   Opa, suave? 🤙 espero que esteja bem! </br>
-  Então, eu trabalho como <strong>Desenvolvedor Mobile</strong> 💻 na empresa [@NamoaDigital](https://github.com/Namoa-Digital) e </br>estou cursando ADS na [@Metodista]().</br>
+  Então, eu trabalho como <strong>Desenvolvedor Mobile</strong> 💻 na empresa [@NamoaDigital](https://github.com/Namoa-Digital) e estou cursando ADS na [@Metodista]().</br>
   Aqui em meu </strong>Git Hub</strong> irei deixar alguns projetos eu que faço para ver minha evolução na programação 🧑🏾‍🎓 e quem sabe futuramente ajudar a comunidade 👥<br>
 </p>
 
