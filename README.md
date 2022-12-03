@@ -27,3 +27,6 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choicedev&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=choicedev&theme=github_dark) |
 | :-: | :-: |
 </p>  
+
+
+![Snake animation](https://github.com/choicedev/choicedev/blob/output/github-contribution-grid-snake.svg)
