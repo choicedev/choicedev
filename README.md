@@ -16,12 +16,12 @@
   👨🏾‍💻 No momemnto eu utilizo as seguintes linguagens (seja para trabalho ou estudo):</br>
   ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
  
 
  ## 🧰 Ferramentas 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
   
  ## 🎯 Git Hub Stats 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choicedev&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=choicedev&theme=github_dark) |
