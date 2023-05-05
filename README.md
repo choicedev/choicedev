@@ -1,10 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left">
-  
-  <a href="https://www.linkedin.com/in/fabriciozamora/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/fabriciozamora/"/>
-  </a>
+ 
   
 ## <p align="left"> 
   Opa, suave? 🤙 espero que esteja bem! </br>
