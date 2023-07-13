@@ -1,9 +1,10 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left">
  
   
 ## <p align="left"> 
+<img src="https://i.pinimg.com/originals/ec/69/2f/ec692fcf69caa9fb380d72d524b355b7.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="gif">
+
   Opa, suave? 🤙 espero que esteja bem! </br>
   Então, eu trabalho como <strong>Desenvolvedor Mobile</strong> 💻 na empresa [@NamoaDigital](https://github.com/Namoa-Digital) e estou cursando ADS na [@Metodista]().</br>
   Aqui em meu </strong>Git Hub</strong> irei deixar alguns projetos eu que faço para ver minha evolução na programação 🧑🏾‍🎓 e quem sabe futuramente ajudar a comunidade 👥<br>
