@@ -1,30 +1,65 @@
 
-<p align="left">
- 
-  
-## <p align="left"> 
-<img src="https://i.pinimg.com/originals/ec/69/2f/ec692fcf69caa9fb380d72d524b355b7.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="gif">
-
-  Opa, suave? 🤙 espero que esteja bem! </br>
-  Então, eu trabalho como <strong>Desenvolvedor Mobile</strong> 💻 na empresa [@NamoaDigital](https://github.com/Namoa-Digital) e estou cursando ADS na [@Metodista]().</br>
-  Aqui em meu </strong>Git Hub</strong> irei deixar alguns projetos eu que faço para ver minha evolução na programação 🧑🏾‍🎓 e quem sabe futuramente ajudar a comunidade 👥<br>
-</p>
-
- ## ☕ Linguagens 
-  👨🏾‍💻 No momemnto eu utilizo as seguintes linguagens (seja para trabalho ou estudo):</br>
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
- 
-
- ## 🧰 Ferramentas 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-  
- ## 🎯 Git Hub Stats 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choicedev&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=choicedev&theme=github_dark) |
-| :-: | :-: |
-</p>  
 
 
-![Snake animation](https://github.com/choicedev/choicedev/blob/output/github-contribution-grid-snake.svg)
+<h3 align="center"><i>🏴‍☠️ Oh salve, seja bem vindo(a) 🏴‍☠️</i></h3>
+<hr/>
+<div align="center">
+<img src="https://i.pinimg.com/originals/24/f5/db/24f5dbeacbbf3b146cef0d8ef7b7fe0c.gif" height="500" width="800" alt="GIF" align="center"/>
+
+
+</br>
+</br>
+</br>
+
+<hr/>
+<h3 align="center"><i> Sobre mim 🧑🏽‍💻</i></h3>
+
+<div align="left">
+
+ <p align="left">  Opa, suave? 🤙 espero que esteja bem! <br>
+ Eu sou o <b><i>Choice</i></b> e trabalho como <b>Desenvolvedor Android</b> 💻.<br>
+ Aqui no <b><i>GitHub</i></b> irei colocar alguns projetos <b><i>Android</i></b> e de <b><i>Minecraft</i></b><br>
+ Quem sabe futuramente mais coisas? 🤔💡
+ </p>
+
+</div>
+
+
+<hr/>
+<div align="center">
+<h3 align="center"><i>Conhecimento 🧠</i></h3>
+ <p align="center">Sou um <b>Desenvolvedor Jr</b> desbravando o mundo.</p>
+
+  <p align="center">
+   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JETPACK COMPOSE-%231d87a3.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Android%20Studio-29933c.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-%23225875.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Minecraft Plugin-%231a5f27.svg?style=for-the-badge&logo=minecraft&logoColor=white"/>
+  </p>
+
+</div>
+
+<hr/>
+<div align="center">
+<h3 align="center"><i>Contato 📞</i></h3>
+  <div align="center">
+  <a href="" >
+   <img src="https://lanyard.kyrie25.me/api/246904837508169728?animated=true&hideTimestamp=true&hideDiscrim=true&waveColor=ca002e"  /> </a>
+  </div>
+</div>
+
+
+<hr/>
+<div align="center">
+<h3 align="center"><i>Estatisticas 📈</i></h3>
+  <div align="center">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=choicedev&theme=github_dark" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choicedev&theme=github_dark" />
+  </div>
+</div>
+
+<hr/>
+<img src="https://github.com/choicedev/choicedev/blob/output/github-contribution-grid-snake.svg"/>
+</div>
