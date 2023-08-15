@@ -59,7 +59,4 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choicedev&theme=github_dark" />
   </div>
 </div>
-
-<hr/>
-<img src="https://github.com/choicedev/choicedev/blob/output/github-contribution-grid-snake.svg"/>
 </div>
