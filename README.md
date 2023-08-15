@@ -45,8 +45,8 @@
 <div align="center">
 <h3 align="center"><i>Contato 📞</i></h3>
   <div align="center">
-  <a href="" >
-   <img src="https://lanyard.kyrie25.me/api/246904837508169728?animated=true&hideTimestamp=true&hideDiscrim=true&waveColor=ca002e"  /> </a>
+  <a href="https://discord.com/users/246904837508169728">
+   <img src="https://lanyard.kyrie25.me/api/246904837508169728?animated=true&hideTimestamp=true&hideDiscrim=true&waveColor=ca002e&imgStyle=square"  /> </a>
   </div>
 </div>
 
