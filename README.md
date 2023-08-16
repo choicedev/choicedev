@@ -31,12 +31,18 @@
  <p align="center">Sou um <b>Desenvolvedor Jr</b> desbravando o mundo.</p>
 
   <p align="center">
-   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-   <img src="https://img.shields.io/badge/JETPACK COMPOSE-%231d87a3.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Android%20Studio-29933c.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-%23225875.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Minecraft Plugin-%231a5f27.svg?style=for-the-badge&logo=minecraft&logoColor=white"/>
+   <a href="https://kotlinlang.org/docs/home.html">
+   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/> </a>
+   <a href="[https://kotlinlang.org/docs/home.html](https://developer.android.com/jetpack/compose/documentation?hl=pt-br)">
+   <img src="https://img.shields.io/badge/JETPACK COMPOSE-%231d87a3.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> </a>
+   <a href="https://developer.android.com/studio?gclid=CjwKCAjw5_GmBhBIEiwA5QSMxAyyys0asTIVZrabho-tTA0IZxsBC_hdOxSDrc8Vmle-EKKhl32PzxoCWagQAvD_BwE&gclsrc=aw.ds">   
+   <img src="https://img.shields.io/badge/Android%20Studio-29933c.svg?style=for-the-badge&logo=android-studio&logoColor=white"/> </a>
+   <a href="https://aws.amazon.com/pt/free/">
+   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> </a>
+   <a href="https://www.jetbrains.com/pt-br/idea/">
+   <img src="https://img.shields.io/badge/IntelliJ IDEA-%23225875.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/> </a>
+   <a href="https://www.minecraft.net/pt-pt">
+   <img src="https://img.shields.io/badge/Minecraft Plugin-%231a5f27.svg?style=for-the-badge&logo=minecraft&logoColor=white"/> </a>
   </p>
 
 </div>
