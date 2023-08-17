@@ -17,7 +17,7 @@
 <div align="left">
 
  <p align="left">  Opa, suave? 🤙 espero que esteja bem! <br>
- Eu sou o <b><i>Choice</i></b> e trabalho com <b>Desenvolvimento Android</b> 💻.<br>
+ Eu sou o <b><i>Choice</i></b> e trabalho com <b><i>Desenvolvimento Android</i>i></b> 💻.<br>
  Aqui no <b><i>GitHub</i></b> irei colocar alguns projetos <b><i>Android</i></b> e de <b><i>Minecraft</i></b><br>
  Quem sabe futuramente mais coisas? 🤔💡
  </p>
@@ -61,8 +61,7 @@
 <div align="center">
 <h3 align="center"><i>Estatisticas 📈</i></h3>
   <div align="center">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=choicedev&theme=github_dark" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choicedev&theme=github_dark" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=choicedev&theme=radical" />       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=choicedev&theme=radical"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choicedev&theme=radical" />
   </div>
 </div>
 </div>
