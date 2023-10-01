@@ -28,7 +28,7 @@
 <hr/>
 <div align="center">
 <h3 align="center"><i>Conhecimento 🧠</i></h3>
- <p align="center">Sou um <b>Desenvolvedor Jr</b> desbravando o mundo.</p>
+ <p align="center">Sou um <b>Desenvolvedor Android Jr</b> desbravando o mundo.</p>
 
   <p align="center">
    <a href="https://kotlinlang.org/docs/home.html">
