@@ -17,8 +17,8 @@
 <div align="left">
 
  <p align="center">  Opa, suave? 🤙 espero que esteja bem! <br>
- Eu sou o <b><i>Choice</i></b> e trabalho com <b><i>Desenvolvimento Android</i></b> 💻.<br>
- Aqui no <b><i>GitHub</i></b> irei colocar alguns projetos <b><i>Android</i></b> e de <b><i>Minecraft</i></b><br>
+ Meu nome é <b>Fabricio (Choice)</b> e trabalho com <b>Desenvolvimento Android</b> 💻.<br>
+ Aqui no <b>GitHub</b> irei colocar alguns projetos <b>Android</b> e de <b>Minecraft</b><br>
  Quem sabe futuramente mais coisas? 🤔💡
  </p>
 
