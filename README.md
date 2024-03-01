@@ -4,7 +4,7 @@
 <h3 align="center"><i>🏴‍☠️ Oh salve, seja bem vindo(a) 🏴‍☠️</i></h3>
 <hr/>
 <div align="center">
-<img src="https://i.pinimg.com/originals/24/f5/db/24f5dbeacbbf3b146cef0d8ef7b7fe0c.gif" height="500" width="800" alt="GIF" align="center"/>
+<img src="https://media1.tenor.com/m/ximNM3uVdqQAAAAC/luffy-one-piece-haki.gif" height="500" width="800" alt="GIF" align="center"/>
 
 
 </br>
