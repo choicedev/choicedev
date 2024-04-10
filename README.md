@@ -1,18 +1,11 @@
 
 
 
-<h3 align="center"><i>🏴‍☠️ Oh salve, seja bem vindo(a) 🏴‍☠️</i></h3>
+<h3 align="center">🏴‍☠️<i> Oh salve, seja bem vindo(a)</i>🏴‍☠️</h3>
 <hr/>
 <div align="center">
-<img src="https://i.giphy.com/QT7ONxNODN6ukAYPqG.webp" height="500" width="1000" alt="GIF" align="center"/>
 
-
-</br>
-</br>
-</br>
-
-<hr/>
-<h3 align="center"><i> Sobre mim 🧑🏽‍💻</i></h3>
+<h3 align="center"><i> Sobre mim </i>🧑🏽‍💻</h3>
 
 <div align="left">
 
@@ -27,7 +20,7 @@
 
 <hr/>
 <div align="center">
-<h3 align="center"><i>Conhecimento 🧠</i></h3>
+<h3 align="center"><i>Conhecimento </i>🧠</h3>
  <p align="center">Sou um <b>Desenvolvedor Android Jr</b> desbravando o mundo.</p>
 
   <p align="center">
@@ -50,8 +43,11 @@
 </div>
 
 <hr/>
+<img src="https://i.giphy.com/QT7ONxNODN6ukAYPqG.webp" height="500" width="1000" alt="GIF" align="center"/>
+
+<hr/>
 <div align="center">
-<h3 align="center"><i>Contato 📞</i></h3>
+<h3 align="center"><i>Discord </i>📞</h3>
   <div align="center">
   <a href="https://discord.com/users/246904837508169728">
    <img src="https://lanyard.kyrie25.me/api/246904837508169728?animated=true&hideTimestamp=true&hideDiscrim=true&waveColor=ca002e&imgStyle=square"  /> </a>
@@ -61,7 +57,7 @@
 
 <hr/>
 <div align="center">
-<h3 align="center"><i>Estatisticas 📈</i></h3>
+<h3 align="center"><i>Estatisticas </i>📈</h3>
   <div align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=choicedev&theme=radical" />       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=choicedev&theme=radical"/><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=choicedev&theme=radical" />
   </div>
