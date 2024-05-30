@@ -43,7 +43,7 @@
 </div>
 
 <hr/>
-<img src="https://i.giphy.com/QT7ONxNODN6ukAYPqG.webp" height="500" width="1000" alt="GIF" align="center"/>
+<img src="https://c.tenor.com/5mxChCC_L3AAAAAC/tenor.gif" height="500" width="1000" alt="GIF" align="center"/>
 
 <hr/>
 <div align="center">
