@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center"><i> Oh salve, seja bem vindo(a)</i></h3>
+<h3 align="center"><i> Seja bem vindo(a).</i></h3>
 <hr/>
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 <div align="left">
 
- <p align="center">  Opa, suave? 🤙 espero que esteja bem! <br>
+ <p align="center">
  Meu nome é <b>Fabricio (Choice)</b> e trabalho com <b>Desenvolvimento Android</b> 💻.<br>
  Aqui no <b>GitHub</b> irei colocar alguns projetos <b>Android</b><br>
  Quem sabe futuramente mais coisas? 🤔💡
