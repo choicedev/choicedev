@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center">🏴‍☠️<i> Oh salve, seja bem vindo(a)</i>🏴‍☠️</h3>
+<h3 align="center"><i> Oh salve, seja bem vindo(a)</i></h3>
 <hr/>
 <div align="center">
 
@@ -11,7 +11,7 @@
 
  <p align="center">  Opa, suave? 🤙 espero que esteja bem! <br>
  Meu nome é <b>Fabricio (Choice)</b> e trabalho com <b>Desenvolvimento Android</b> 💻.<br>
- Aqui no <b>GitHub</b> irei colocar alguns projetos <b>Android</b> e de <b>Minecraft</b><br>
+ Aqui no <b>GitHub</b> irei colocar alguns projetos <b>Android</b><br>
  Quem sabe futuramente mais coisas? 🤔💡
  </p>
 
@@ -21,8 +21,7 @@
 <hr/>
 <div align="center">
 <h3 align="center"><i>Conhecimento </i>🧠</h3>
- <p align="center">Sou um <b>Desenvolvedor Android Jr</b> desbravando o mundo.</p>
-
+ <br>
   <p align="center">
    <a href="https://www.java.com/">
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> </a>
@@ -43,7 +42,7 @@
 </div>
 
 <hr/>
-<img src="https://c.tenor.com/5mxChCC_L3AAAAAC/tenor.gif" height="500" width="1000" alt="GIF" align="center"/>
+<img src="https://i.imgur.com/H5m4U6F.gif" height="500" width="1000" alt="GIF" align="center"/>
 
 <hr/>
 <div align="center">
